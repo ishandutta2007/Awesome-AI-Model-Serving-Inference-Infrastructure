@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure?style=flat-square&color=emerald" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Serving-Inference-Infrastructure/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
@@ -67,7 +67,7 @@ The following SaaS and managed neocloud platforms deliver high-throughput, low-l
 
 ## 🛠️ Open-Source GitHub Projects
 
-A ranked collection of open-source projects essential for building, optimizing, and deploying AI inference infrastructure. All repositories feature an official stargazers badge linking directly to their stargazers page and are sorted descending by GitHub star count.
+A ranked collection of open-source projects essential for building, optimizing, and deploying AI inference infrastructure. All repositories feature an official stargazers badge linking directly to their stargazers page and are sorted descending by GitHub Stars_Count.
 
 ---
 
